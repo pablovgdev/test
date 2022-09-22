@@ -1,5 +1,5 @@
 # Swapybot Test
 
-push
+push push
 
 master
