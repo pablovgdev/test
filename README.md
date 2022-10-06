@@ -1,3 +1,3 @@
 # Swapybot Test
 
-push BAK
+push BAK push
