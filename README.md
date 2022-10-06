@@ -1,3 +1,3 @@
 # Swapybot Test
 
-push push
+push
